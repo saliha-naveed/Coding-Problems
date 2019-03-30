@@ -17,7 +17,7 @@ Output:
 [
   ["hit","hot","dot","dog","cog"],
   
-  ["hit","hot","lot","log","cog"]
+           ["hit","hot","lot","log","cog"]
 ]
 
 ## Example 2:
