@@ -7,9 +7,10 @@ Design a micro service that accepts two words(beginWord and endWord), and a di
 
 ## Example 1:
 Input:
-beginWord = "hit";,
-endWord = "cog";,
-wordList = ["hot","dot","dog","lot","log","cog";]
+beginWord = "hit",
+endWord = "cog",
+wordList = ["hot","dot","dog","lot","log","cog"]
+
 Output:
 [
   ["hit","hot","dot","dog","cog"],
@@ -18,8 +19,9 @@ Output:
 
 ## Example 2:
 Input:
-beginWord = "hit";,
-endWord = "cog";,
+beginWord = "hit",
+endWord = "cog",
+
 wordList = ["hot","dot","dog","lot","log","cog";]
 Output:[]
 
@@ -30,7 +32,7 @@ Explanation: The endWord &quot;cog&quot; is not in wordList, therefore no possi
 # Question 2:
 Develop a micro service that take ’n’ points on a 2D plane as input, and finds the maximum number of points that lie on the same straight line.
 
-# Example 1:
+## Example 1:
 Input: [[1,1],[2,2],[3,3]]
 Output: 3
 Explanation:
