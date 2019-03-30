@@ -14,6 +14,7 @@ wordList = ["hot","dot","dog","lot","log","cog"]
 Output:
 [
   ["hit","hot","dot","dog","cog"],
+  
   ["hit","hot","lot","log","cog"]
 ]
 
@@ -35,11 +36,3 @@ Develop a micro service that take ’n’ points on a 2D plane as input, and fi
 ## Example 1:
 Input: [[1,1],[2,2],[3,3]]
 Output: 3
-Explanation:
-^
-|
-|        o
-|     o
-|  o  
-+------------->;
-0  1  2  3 4
